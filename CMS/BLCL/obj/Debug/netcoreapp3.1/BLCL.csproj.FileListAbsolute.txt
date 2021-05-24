@@ -1,0 +1,11 @@
+F:\GitHup\Code\CMS\CMS\BLCL\bin\Debug\netcoreapp3.1\BLCL.deps.json
+F:\GitHup\Code\CMS\CMS\BLCL\bin\Debug\netcoreapp3.1\BLCL.runtimeconfig.json
+F:\GitHup\Code\CMS\CMS\BLCL\bin\Debug\netcoreapp3.1\BLCL.runtimeconfig.dev.json
+F:\GitHup\Code\CMS\CMS\BLCL\bin\Debug\netcoreapp3.1\BLCL.dll
+F:\GitHup\Code\CMS\CMS\BLCL\bin\Debug\netcoreapp3.1\BLCL.pdb
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.AssemblyInfoInputs.cache
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.AssemblyInfo.cs
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.csproj.CoreCompileInputs.cache
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.dll
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.pdb
+F:\GitHup\Code\CMS\CMS\BLCL\obj\Debug\netcoreapp3.1\BLCL.genruntimeconfig.cache
